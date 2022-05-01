@@ -5,3 +5,4 @@ losses/
 output_images/
 saved_generators/
 seeds/
+fid_images/
