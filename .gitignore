@@ -1,8 +1,10 @@
 checkpoints/
 gifs/
 input_images/
-losses/
+metrics/
 output_images/
 saved_generators/
+saved_encoders/
 seeds/
 fid_images/
+*.pt
